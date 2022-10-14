@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file:///home/scm-staff/u0018196/AndroidStudioProjects/test/app/app.iml" filepath="/home/scm-staff/u0018196/AndroidStudioProjects/test/app/app.iml" />
-      <module fileurl="file:///home/scm-staff/u0018196/AndroidStudioProjects/test/test.iml" filepath="/home/scm-staff/u0018196/AndroidStudioProjects/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1005601700/MyFirstApp.iml" filepath="$PROJECT_DIR$/.idea/modules/1005601700/MyFirstApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2100603190/MyFirstApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/2100603190/MyFirstApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2100603190/MyFirstApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/2100603190/MyFirstApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2100603190/MyFirstApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/2100603190/MyFirstApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2100603190/MyFirstApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/2100603190/MyFirstApp.app.unitTest.iml" />
     </modules>
   </component>
 </project>
